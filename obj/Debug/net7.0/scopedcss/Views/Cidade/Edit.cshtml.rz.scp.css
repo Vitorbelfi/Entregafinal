@@ -1,0 +1,49 @@
+body[b-p069h6y7qn] {
+    font-family: 'Arial', sans-serif;
+    background-color: red; /* Altere a cor de fundo conforme necessário */
+    padding: 20px;
+}
+
+h1[b-p069h6y7qn] {
+    color: #007bff;
+    text-align: center;
+}
+
+h4[b-p069h6y7qn] {
+    color: #343a40;
+}
+
+.row[b-p069h6y7qn] {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+form[b-p069h6y7qn] {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%; /* Ajuste a largura conforme necessário */
+}
+
+label[b-p069h6y7qn] {
+    font-weight: bold;
+}
+
+.form-group[b-p069h6y7qn] {
+    margin-bottom: 20px;
+}
+
+input[type="submit"][b-p069h6y7qn] {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+hr[b-p069h6y7qn] {
+    background-color: #007bff;
+    height: 2px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

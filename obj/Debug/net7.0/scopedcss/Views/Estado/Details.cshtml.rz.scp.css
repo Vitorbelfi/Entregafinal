@@ -1,0 +1,49 @@
+body[b-kczbr0805d] {
+    font-family: 'Arial', sans-serif;
+    background-color: red; /* Altere a cor de fundo conforme necessário */
+    padding: 20px;
+}
+
+h1[b-kczbr0805d] {
+    color: #007bff;
+    text-align: center;
+}
+
+h4[b-kczbr0805d] {
+    color: #343a40;
+}
+
+.row[b-kczbr0805d] {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+form[b-kczbr0805d] {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%; /* Ajuste a largura conforme necessário */
+}
+
+label[b-kczbr0805d] {
+    font-weight: bold;
+}
+
+.form-group[b-kczbr0805d] {
+    margin-bottom: 20px;
+}
+
+input[type="submit"][b-kczbr0805d] {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+hr[b-kczbr0805d] {
+    background-color: #007bff;
+    height: 2px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

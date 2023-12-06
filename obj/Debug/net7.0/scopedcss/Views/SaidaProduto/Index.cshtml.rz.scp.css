@@ -1,0 +1,49 @@
+body[b-dosaee45o4] {
+    font-family: 'Arial', sans-serif;
+    background-color: red; /* Altere a cor de fundo conforme necessário */
+    padding: 20px;
+}
+
+h1[b-dosaee45o4] {
+    color: #007bff;
+    text-align: center;
+}
+
+h4[b-dosaee45o4] {
+    color: #343a40;
+}
+
+.row[b-dosaee45o4] {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+form[b-dosaee45o4] {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%; /* Ajuste a largura conforme necessário */
+}
+
+label[b-dosaee45o4] {
+    font-weight: bold;
+}
+
+.form-group[b-dosaee45o4] {
+    margin-bottom: 20px;
+}
+
+input[type="submit"][b-dosaee45o4] {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+hr[b-dosaee45o4] {
+    background-color: #007bff;
+    height: 2px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
